@@ -1,0 +1,7 @@
+Hello! My name is Balaji, and I am passionate about software development and machine learning. I hold a strong academic record and have been actively involved in various projects and competitions.
+
+Technical:
+Git, Python, C, C++, Java.
+Machine Learning (Basic), UI/UX, MySQL, HTML & CSS, React/JavaScript (Basics).
+Frameworks & Tools: Node.js, Express, MongoDB, PyTorch.
+
